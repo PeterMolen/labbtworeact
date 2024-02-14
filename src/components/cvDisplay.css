@@ -1,0 +1,31 @@
+.cv-container {
+    display: grid;
+    grid-template-columns: 0.6fr 0.6fr;
+    grid-gap: 10px;
+    border: 1px solid #ccc;
+    margin-bottom: 10px;
+    padding: 10px;
+    border-radius: 5px;
+    transform: scale(0.9);
+    width: 90%; /* Adjust width as needed */
+    height: 90%; /* Adjust height as needed */
+}
+
+.cv-column {
+    padding: 20px;
+    margin-left: 40px;
+    transform: scale(0.9);
+}
+
+/*@media*/
+@media (min-width: 700px) {
+    .cv-container {
+        grid-template-columns: 1fr 1fr; /* Two columns layout for larger screens */
+    }
+}
+
+@media (max-width: 767px) {
+    .cv-container {
+        grid-template-columns: 1fr; /* Single column layout for smaller screens */
+    }
+}

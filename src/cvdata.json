@@ -1,0 +1,64 @@
+{
+    "cvs": 
+    [
+      {
+        "id": 1,
+        "personuppgifter": "Personuppfiter",
+        "name": "Peter molén",
+        "email": "Pete.molen@gmail.com",
+        "phone": "0793541668",
+  
+        "adress": {
+          "street": "Bergsveden 99",
+          "City": "Bollnäs",
+          "postalcode": "82150",
+          "Land": "Sverige"
+        },
+  
+        "Arbetslivserfarenhet": "Arbetslivserfarenhet",
+        "job1": { 
+          "timeperiod": "sep 2017 - Nutid",
+          "jobtitle": "Personlig assistent",
+          "company": "PassTeamAB",
+          "city": "Bollnäs"
+        },
+        "job2": { 
+          "timeperiod": "2012 - 2016",
+          "jobtitle": "Plåtslagare",
+          "company": "Brobers isolering & plåt AB",
+          "city": "Söderhamn"
+        },
+  
+        "Profile": "Profil",
+        "profilepic": {
+        "image": "https://i.pinimg.com/originals/96/78/4c/96784c9eccfd1b02096c01d89a3fd792.jpg"
+        },
+        
+        "Courses": "Utbildningar",
+        "course1": { 
+          "timeperiod": "2023 - 2025",
+          "ctitle": "Systemutvecklare med AI-kompetens",
+          "school": "Edugrade",
+          "city": "Hudiksvall"
+        },
+        "course2": { 
+          "timeperiod": "2019 - 2021",
+          "ctitle": "Frititdsledare",
+          "school": "Birka",
+          "city": "Söderhamn"
+        },
+        "course3": { 
+          "timeperiod": "2011-2013",
+          "ctitle": "Plåtslagare",
+          "school": "Altik",
+          "city": "Sundsvall"
+        },
+        "course4": { 
+          "timeperiod": "2006 - 2009",
+          "ctitle": "IT-utbildning",
+          "school": "Johnbauer Gymnasiet",
+          "city": "Gävle"
+        }
+      }
+    ]
+  }
