@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/PeterMolen/labbtworeact.git/static/css/main.6defdf97.css",
-    "main.js": "/PeterMolen/labbtworeact.git/static/js/main.efde8486.js",
-    "static/js/592.1c3b955f.chunk.js": "/PeterMolen/labbtworeact.git/static/js/592.1c3b955f.chunk.js",
-    "index.html": "/PeterMolen/labbtworeact.git/index.html",
-    "main.6defdf97.css.map": "/PeterMolen/labbtworeact.git/static/css/main.6defdf97.css.map",
-    "main.efde8486.js.map": "/PeterMolen/labbtworeact.git/static/js/main.efde8486.js.map",
-    "592.1c3b955f.chunk.js.map": "/PeterMolen/labbtworeact.git/static/js/592.1c3b955f.chunk.js.map"
+    "main.css": "/labbtworeact/static/css/main.6defdf97.css",
+    "main.js": "/labbtworeact/static/js/main.5588bb85.js",
+    "static/js/592.1c3b955f.chunk.js": "/labbtworeact/static/js/592.1c3b955f.chunk.js",
+    "index.html": "/labbtworeact/index.html",
+    "main.6defdf97.css.map": "/labbtworeact/static/css/main.6defdf97.css.map",
+    "main.5588bb85.js.map": "/labbtworeact/static/js/main.5588bb85.js.map",
+    "592.1c3b955f.chunk.js.map": "/labbtworeact/static/js/592.1c3b955f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6defdf97.css",
-    "static/js/main.efde8486.js"
+    "static/js/main.5588bb85.js"
   ]
 }
